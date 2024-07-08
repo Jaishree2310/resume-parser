@@ -1,7 +1,3 @@
-# resume-parser
-
-Sure, here's a professional README for your resume parser project:
-
 # Resume Parser
 
 A Python script that parses resume text and converts it into JSON format. This tool is designed to streamline the process of extracting structured data from plain text resumes, making it easier to analyze and utilize resume information programmatically.
@@ -131,7 +127,3 @@ If you have any questions or suggestions, feel free to reach out to the project 
 - Jaishree Singh
 - Email: jaishree.singh@example.com
 - LinkedIn: [linkedin.com/in/jaishree-singh](https://linkedin.com/in/jaishree-singh)
-
----
-
-This README provides a comprehensive overview of the project, installation instructions, usage examples, and other essential information. Feel free to customize it further based on your specific needs or any additional features you may add to the project.
